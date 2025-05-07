@@ -1205,6 +1205,11 @@
   resolved "https://registry.yarnpkg.com/@csstools/selector-specificity/-/selector-specificity-2.2.0.tgz#2cbcf822bf3764c9658c4d2e568bd0c0cb748016"
   integrity sha512-+OJ9konv95ClSTOJCmMZqpd5+YGsB2S+x6w3E1oaM8UuR5j8nTNHYSz8c9BEPGDOCMQYIEEGlVPj/VY64iTbGw==
 
+"@electric-sql/pglite@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@electric-sql/pglite/-/pglite-0.3.0.tgz#485d3520cdd5b07b329e224d8559f26f4345c28e"
+  integrity sha512-ou1PA24kStSNpQVGdzDg1FGRzO7AQ3O6OX5FryupMdHkSfSswG2ZVXjCzzJKK88KLk+Q4QinKjZIUtmMeec5rg==
+
 "@emnapi/core@^1.4.0", "@emnapi/core@^1.4.3":
   version "1.4.3"
   resolved "https://registry.yarnpkg.com/@emnapi/core/-/core-1.4.3.tgz#9ac52d2d5aea958f67e52c40a065f51de59b77d6"
